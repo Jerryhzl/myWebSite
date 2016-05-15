@@ -1,0 +1,84 @@
+/***CSS RESET***/
+html, body, div, span, object, iframe,h1, h2, h3, h4, h5, h6, p,
+b, i, ol, ul, li,form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td{
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    vertical-align:baseline;
+    background:transparent;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+body{
+	font-size: 62.5%;
+	font-family: "Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif";
+	width: 100%;
+}
+
+/***PAGE_1***/
+.page_1{
+	width: 100%;
+	background: #101418;
+	height: 1080px;
+}
+/***HEADER***/
+.page_1 header{
+	width: 100%;
+	height: 90px;
+	background: #1c2024;
+}
+.page_1 header div{
+	width: 50%;
+	height: 90px;
+	margin: 0 auto;
+}
+.page_1 header div ul{
+	height: 90px;
+	width: 60%;
+	margin: 0 auto;
+	line-height: 90px;
+}
+.page_1 header li{
+	float: left;
+	width: 20%%;
+}
+.page_1 header li a{
+	float: left;
+	font-size: 1.6rem;
+	color: #fff;
+}
+.page_1 header li a span{
+	margin: 0 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
